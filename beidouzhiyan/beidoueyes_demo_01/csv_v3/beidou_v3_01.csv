@@ -1,0 +1,33 @@
+
+    {
+        "name": "顶部栏",
+        "by_type": By.CLASS_NAME,
+        "by_value": "page-header",
+        "result_type": "string",
+        "expect_res": "安全预警",
+        "expect_list": []
+    },
+    {
+        "name": "tab标签",
+        "by_type": By.CLASS_NAME,
+        "by_value": "noticeSet-item",
+        "result_type": "list",
+        "expect_res": "",
+        "expect_list": ["基本设置", "联系信息"]
+    },
+   {
+        "name": "表格标题",
+        "by_type": By.CLASS_NAME,
+        "by_value": "person-info title font",
+        "result_type": "string",
+        "expect_res": "人员监控通知",
+        "expect_list": []
+    },
+    {
+            "name": "表格标题",
+        "by_type": By.CLASS_NAME,
+        "by_value": "fence-info title font",
+        "result_type": "string",
+        "expect_res": "电子围栏监控通知",
+        "expect_list": []
+    },

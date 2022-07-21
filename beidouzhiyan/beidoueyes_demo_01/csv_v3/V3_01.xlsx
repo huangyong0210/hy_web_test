@@ -1,0 +1,5 @@
+name	by_type	by_value	result_type	expect_res	expect_list
+顶部栏	By.CLASS_NAME	page-header	string	安全预警	[][]
+tab标签	By.CLASS_NAME	noticeSet-item	list	 	"[""基本设置"", ""联系信息""]"
+表格标题	By.CLASS_NAME	person-info title font	string	人员监控通知	[]
+表格标题	By.CLASS_NAME	fence-info title font	string	电子围栏监控通知	[[]

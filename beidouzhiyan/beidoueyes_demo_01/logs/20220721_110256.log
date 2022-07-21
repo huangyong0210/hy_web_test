@@ -1,0 +1,348 @@
+2022-07-21 11:02:56,478_[line:84]_INFO_初始化pingcode配置
+2022-07-21 11:02:56,730_[line:49]_INFO_初始化浏览器
+2022-07-21 11:02:58,064_[line:56]_INFO_初始化成功
+2022-07-21 11:02:58,064_[line:115]_INFO_登录平台, 账号：0625
+2022-07-21 11:02:59,483_[line:185]_INFO_验证是否有提示信息
+2022-07-21 11:03:04,533_[line:197]_INFO_没有提示信息
+2022-07-21 11:03:04,533_[line:78]_INFO_验证左侧栏菜单
+2022-07-21 11:03:04,550_[line:86]_INFO_验证左侧栏菜单-赛事活动
+2022-07-21 11:03:04,550_[line:140]_INFO_验证信息：赛事活动
+2022-07-21 11:03:04,570_[line:159]_INFO_验证信息赛事活动-成功
+2022-07-21 11:03:04,571_[line:86]_INFO_验证左侧栏菜单-活动报名
+2022-07-21 11:03:04,573_[line:140]_INFO_验证信息：活动报名
+2022-07-21 11:03:04,592_[line:159]_INFO_验证信息活动报名-成功
+2022-07-21 11:03:04,592_[line:86]_INFO_验证左侧栏菜单-直播管理
+2022-07-21 11:03:04,592_[line:140]_INFO_验证信息：直播管理
+2022-07-21 11:03:04,610_[line:159]_INFO_验证信息直播管理-成功
+2022-07-21 11:03:04,610_[line:86]_INFO_验证左侧栏菜单-安全预警
+2022-07-21 11:03:04,610_[line:140]_INFO_验证信息：安全预警
+2022-07-21 11:03:04,626_[line:159]_INFO_验证信息安全预警-成功
+2022-07-21 11:03:04,626_[line:86]_INFO_验证左侧栏菜单-设备指令
+2022-07-21 11:03:04,626_[line:140]_INFO_验证信息：设备指令
+2022-07-21 11:03:04,642_[line:159]_INFO_验证信息设备指令-成功
+2022-07-21 11:03:04,691_[line:123]_INFO_验证安全预警页面文字
+2022-07-21 11:03:04,692_[line:128]_INFO_安全预警元素验证-顶部栏
+2022-07-21 11:03:04,692_[line:140]_INFO_验证信息：安全预警
+2022-07-21 11:03:04,761_[line:159]_INFO_验证信息安全预警-成功
+2022-07-21 11:03:04,761_[line:145]_INFO_安全预警元素验证-tab标签
+2022-07-21 11:03:04,772_[line:140]_INFO_验证信息：基本设置
+2022-07-21 11:03:04,782_[line:159]_INFO_验证信息基本设置-成功
+2022-07-21 11:03:04,783_[line:140]_INFO_验证信息：联系信息
+2022-07-21 11:03:04,789_[line:159]_INFO_验证信息联系信息-成功
+2022-07-21 11:03:04,789_[line:128]_INFO_安全预警元素验证-表格标题
+2022-07-21 11:03:04,805_[line:140]_INFO_验证信息：人员监控通知
+2022-07-21 11:03:04,821_[line:159]_INFO_验证信息人员监控通知-成功
+2022-07-21 11:03:04,822_[line:128]_INFO_安全预警元素验证-表格标题
+2022-07-21 11:03:04,860_[line:140]_INFO_验证信息：电子围栏监控通知
+2022-07-21 11:03:04,877_[line:159]_INFO_验证信息电子围栏监控通知-成功
+2022-07-21 11:03:04,920_[line:157]_INFO_验证设备指令页面文字
+2022-07-21 11:03:04,920_[line:162]_INFO_设备指令元素验证顶部栏
+2022-07-21 11:03:04,920_[line:140]_INFO_验证信息：设备指令
+2022-07-21 11:03:05,031_[line:159]_INFO_验证信息设备指令-成功
+2022-07-21 11:03:05,031_[line:99]_INFO_验证功能模块
+2022-07-21 11:03:05,137_[line:110]_INFO_验证功能模块-重启
+2022-07-21 11:03:05,137_[line:140]_INFO_验证信息：重启
+2022-07-21 11:03:10,182_[line:162]_INFO_验证信息重启-失败
+2022-07-21 11:03:10,182_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:10,284_[line:169]_INFO_验证失败, 期望信息：重启,获取信息：,截屏文档：重启_20220721_110310_bug.png
+2022-07-21 11:03:10,284_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:10,284_[line:110]_INFO_验证功能模块-恢复出厂
+2022-07-21 11:03:10,284_[line:140]_INFO_验证信息：恢复出厂
+2022-07-21 11:03:15,328_[line:162]_INFO_验证信息恢复出厂-失败
+2022-07-21 11:03:15,329_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:15,432_[line:169]_INFO_验证失败, 期望信息：恢复出厂,获取信息：,截屏文档：恢复出厂_20220721_110315_bug.png
+2022-07-21 11:03:15,432_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:15,432_[line:110]_INFO_验证功能模块-远程关机
+2022-07-21 11:03:15,432_[line:140]_INFO_验证信息：远程关机
+2022-07-21 11:03:20,495_[line:162]_INFO_验证信息远程关机-失败
+2022-07-21 11:03:20,495_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:20,602_[line:169]_INFO_验证失败, 期望信息：远程关机,获取信息：,截屏文档：远程关机_20220721_110320_bug.png
+2022-07-21 11:03:20,602_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:20,602_[line:110]_INFO_验证功能模块-禁止关机
+2022-07-21 11:03:20,603_[line:140]_INFO_验证信息：禁止关机
+2022-07-21 11:03:25,637_[line:162]_INFO_验证信息禁止关机-失败
+2022-07-21 11:03:25,637_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:25,742_[line:169]_INFO_验证失败, 期望信息：禁止关机,获取信息：,截屏文档：禁止关机_20220721_110325_bug.png
+2022-07-21 11:03:25,742_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:25,742_[line:110]_INFO_验证功能模块-上传频度
+2022-07-21 11:03:25,742_[line:140]_INFO_验证信息：上传频度
+2022-07-21 11:03:30,759_[line:162]_INFO_验证信息上传频度-失败
+2022-07-21 11:03:30,759_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:30,867_[line:169]_INFO_验证失败, 期望信息：上传频度,获取信息：,截屏文档：上传频度_20220721_110330_bug.png
+2022-07-21 11:03:30,868_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:30,868_[line:110]_INFO_验证功能模块-设置ip或域名
+2022-07-21 11:03:30,868_[line:140]_INFO_验证信息：设置ip或域名
+2022-07-21 11:03:35,890_[line:162]_INFO_验证信息设置ip或域名-失败
+2022-07-21 11:03:35,891_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:35,995_[line:169]_INFO_验证失败, 期望信息：设置ip或域名,获取信息：,截屏文档：设置ip或域名_20220721_110335_bug.png
+2022-07-21 11:03:35,995_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:35,995_[line:110]_INFO_验证功能模块-设置端口
+2022-07-21 11:03:35,996_[line:140]_INFO_验证信息：设置端口
+2022-07-21 11:03:41,030_[line:162]_INFO_验证信息设置端口-失败
+2022-07-21 11:03:41,030_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:41,141_[line:169]_INFO_验证失败, 期望信息：设置端口,获取信息：,截屏文档：设置端口_20220721_110341_bug.png
+2022-07-21 11:03:41,141_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:41,141_[line:110]_INFO_验证功能模块-允许关机
+2022-07-21 11:03:41,141_[line:140]_INFO_验证信息：允许关机
+2022-07-21 11:03:46,170_[line:162]_INFO_验证信息允许关机-失败
+2022-07-21 11:03:46,171_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:46,277_[line:169]_INFO_验证失败, 期望信息：允许关机,获取信息：,截屏文档：允许关机_20220721_110346_bug.png
+2022-07-21 11:03:46,277_[line:226]_INFO_debug模式不提交缺陷
+2022-07-21 11:03:46,277_[line:110]_INFO_验证功能模块-关闭休眠
+2022-07-21 11:03:46,277_[line:140]_INFO_验证信息：关闭休眠
+2022-07-21 11:03:51,319_[line:162]_INFO_验证信息关闭休眠-失败
+2022-07-21 11:03:51,319_[line:163]_ERROR_Message: no such element: Unable to locate element: {"method":"tag name","selector":"li"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004E6463+2188387]
+	Ordinal0 [0x0047E461+1762401]
+	Ordinal0 [0x00393D78+802168]
+	Ordinal0 [0x003C1880+989312]
+	Ordinal0 [0x003C1B1B+989979]
+	Ordinal0 [0x003B8071+950385]
+	Ordinal0 [0x003DC824+1099812]
+	Ordinal0 [0x003B7FF4+950260]
+	Ordinal0 [0x003DC9F4+1100276]
+	Ordinal0 [0x003ECC22+1166370]
+	Ordinal0 [0x003DC5F6+1099254]
+	Ordinal0 [0x003B6BE0+945120]
+	Ordinal0 [0x003B7AD6+948950]
+	GetHandleVerifier [0x007871F2+2712546]
+	GetHandleVerifier [0x0077886D+2652765]
+	GetHandleVerifier [0x0057002A+520730]
+	GetHandleVerifier [0x0056EE06+516086]
+	Ordinal0 [0x0048468B+1787531]
+	Ordinal0 [0x00488E88+1805960]
+	Ordinal0 [0x00488F75+1806197]
+	Ordinal0 [0x00491DF1+1842673]
+	BaseThreadInitThunk [0x75C6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77B47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B47A6E+238]
+
+2022-07-21 11:03:51,425_[line:169]_INFO_验证失败, 期望信息：关闭休眠,获取信息：,截屏文档：关闭休眠_20220721_110351_bug.png
+2022-07-21 11:03:51,425_[line:226]_INFO_debug模式不提交缺陷
